@@ -1,0 +1,110 @@
+.containerT {
+  background-color: rgb(229, 229, 229);
+  align-items: center;
+  border-color:black;
+  width: 319px; /* Ajusta el ancho según tus necesidades */
+  height: 210px; /* Ajusta la altura según tus necesidades */
+  padding: 15px; /* Añade un relleno interno según tus necesidades */
+}
+.buttonT{
+  background-color: rgb(255, 255, 255);
+  font-size: 15px;
+  width: 13%;
+  margin: .6%;
+  text-align: center;
+}
+.buttonN{
+  background-color: rgb(255, 255, 255);
+  font-size: 15px;
+  width: 15%;
+  margin: .5%;
+  text-align: center;
+}
+.buttonCn{
+  font-size: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 21%;
+  margin: 1%;
+  text-align: center;
+}
+.buttonE{
+  font-size: 18px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 28%;
+  margin: 1%;
+  text-align: center;
+}
+.buttonC{
+  font-size: 20px;
+  background-color: rgb(253, 253, 253);
+  width: 48%;
+  margin: 3.%;
+  text-align: center;
+}
+.buttonXe{
+  font-size: 20px;
+  background-color: rgb(229, 229, 229);
+  color: rgb(255, 0, 0);
+  width: 15%;
+  text-align: center;
+  float: right;
+  
+}
+.buttonP{
+  font-size: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 14%;
+  margin: 1%;
+  text-align: center;
+}
+.containerTc{
+  background-color: rgb(229, 229, 229);
+  align-items: center;
+  border-color:black;
+  width: 400px; /* Ajusta el ancho según tus necesidades */
+  height: 250px; /* Ajusta la altura según tus necesidades */
+  padding: 15px; /* Añade un relleno interno según tus necesidades */
+}
+.buttonL{
+  background-color: rgb(255, 255, 255);
+  font-size: 15px;
+  width: 9%;
+  margin: .5%;
+  text-align: center;
+}
+
+.buttonSE{
+  font-size: 18px;
+  background-color: rgb(255, 255, 255);
+  width: 68%;
+  margin: 1%;
+  text-align: center;
+  
+}
+.buttonCam{
+  background-color: rgb(255, 255, 255);
+  font-size: 17px;
+  width: 19%;
+  margin: .5%;
+  text-align: center;
+}
+.buttonEn{
+  background-color: rgb(255, 255, 255);
+  font-size: 15px;
+  width: 5%;
+  margin: .5%;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.buttonXel{
+  font-size: 20px;
+  background-color: rgb(229, 229, 229);
+  color: rgb(255, 0, 0);
+  width: 100%;
+  text-align: right;
+  float: center;
+  
+}
